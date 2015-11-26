@@ -1,0 +1,29 @@
+body {
+	background-image: url('http://i.imgur.com/ViFKmD5.png');
+	background-size: cover;
+}
+
+p {
+	color: #fff;
+}
+
+
+.backbutton a {
+	font-size: 12px;
+	font-weight: bold;
+	padding: 14px 10px;
+	text-transform: uppercase;
+	color: purple;
+}
+
+.backbutton li {
+	display: inline;
+}
+
+.jumbotron {
+	padding-top: 100px
+}
+
+.jumbotron a {
+	color: orange;
+}
