@@ -1,12 +1,11 @@
 body {
 	background-image: url('http://i.imgur.com/D9WABdu.png');
-	height: 900px;
-	background-position: -20000px;
+	font-family: "Droid Sans", sans-serif;
 }
 .jumbotron .sign {
 	color: #55acee;
 	font-size: 20px;
-	font-family: "comic sans ms";
+	font-family: "Gloria Hallelujah", cursive;
 }
 .jumbotron h1 {
 	color: #900;
