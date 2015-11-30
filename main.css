@@ -27,6 +27,7 @@ body {
 	color: #55acee;
 }
 .twitterfeed {
-	margin: 100px;
-	padding-right: 1000px;
+	float:right;
+    width:520px;
+    /*Heigh cannot be changed here and must be done on the Twitter Widgets page*/
 }
