@@ -28,8 +28,5 @@ body {
 	color: #55acee;
 }
 .twitterfeed {
-	margin-top: auto;
-	margin-bottom: auto;
-	margin-left: auto;
-	margin-right: auto;
+	padding-left: 1080px;
 }
