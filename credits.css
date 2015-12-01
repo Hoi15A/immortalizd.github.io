@@ -2,6 +2,13 @@ body {
   font-family: "Droid Sans", sans-serif;
   background: url('http://i.imgur.com/D9WABdu.png');
 }
+.backbutton a {
+  font-size: 12px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+  color: purple;
+}
 .twitterfeed {
   float: right;
   width: 520px;
