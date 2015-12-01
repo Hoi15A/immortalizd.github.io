@@ -3,7 +3,7 @@ body {
   background: url('http://i.imgur.com/D9WABdu.png');
 }
 .credits a {
-  color: #100;
+  color: #ff0;
 }
 .credits h3 {
   color: crimson;
@@ -17,4 +17,5 @@ body {
 }
 .ot li {
   display: table;
+  color: #ff0;
 }
