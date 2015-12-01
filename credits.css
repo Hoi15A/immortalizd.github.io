@@ -1,1 +1,19 @@
-
+body {
+  font-family: "Droid Sans", sans-serif;
+  background: url('http://i.imgur.com/D9WABdu.png');
+}
+.credits a {
+  color: crimson;
+}
+.credits h3 {
+  text: underline;
+}
+.credits li {
+  display: table;
+}
+.ot h3 {
+  color: crimson;
+}
+.ot li {
+  display: table;
+}
