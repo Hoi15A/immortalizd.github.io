@@ -2,6 +2,10 @@ body {
   font-family: "Droid Sans", sans-serif;
   background: url('http://i.imgur.com/D9WABdu.png');
 }
+.twitterfeed {
+  float: right;
+  width: 520px;
+}
 .credits a {
   color: yellow;
 }
